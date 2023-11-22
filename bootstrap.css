@@ -2178,9 +2178,7 @@ textarea.form-control {
   padding-right: 5px;
   padding-left: 5px;
 }
-.mohnish{
-  margin-left: 500px;
-}
+
 .form-check {
   position: relative;
   display: block;
@@ -2642,7 +2640,6 @@ fieldset:disabled a.btn {
   background-color: #28a745;
   border-color: #28a745;
 }
-
 
 .btn-success:hover {
   color: #fff;
@@ -4757,7 +4754,6 @@ input[type="button"].btn-block {
   color: rgba(255, 255, 255, 0.25);
 }
 
-
 .navbar-dark .navbar-nav .show > .nav-link,
 .navbar-dark .navbar-nav .active > .nav-link,
 .navbar-dark .navbar-nav .nav-link.show,
@@ -6870,9 +6866,7 @@ button.bg-dark:focus {
 .bg-white {
   background-color: #fff !important;
 }
-.bg-black{
-  background-color: #000;
-}
+
 .bg-transparent {
   background-color: transparent !important;
 }
