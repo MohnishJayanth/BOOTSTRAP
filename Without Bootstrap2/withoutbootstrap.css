@@ -1,0 +1,17 @@
+nav{
+    background-color: black;
+}
+.mohnish{
+    text-align: right;
+    color: white;
+    padding-right: 0;
+    padding-left: 0;
+}
+button[style]{
+    padding: 10px;
+border: solid red;
+}
+button[required]{
+    padding: 10px;
+    border: solid yellow;
+}
